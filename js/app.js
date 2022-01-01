@@ -11,8 +11,6 @@ fetch ki kor6e, fech 1st e url niye ekta promise return kor6e
 
 fech promise er then er vitor ekta funtion chol6e jeta response ta niye response,json
 
-
-
 */
 
 
