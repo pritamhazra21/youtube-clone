@@ -4,4 +4,4 @@
 it is a clone of youtbe structure using html and css 
 and the video thumbnails anr remder through youtube api
 
-![alt text](./demo.png)
+![alt text](./img/demo.png)
