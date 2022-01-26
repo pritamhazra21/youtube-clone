@@ -1,16 +1,10 @@
 const videoCardContainer = document.querySelector('.video-container');
 
 
-let api_key = "AIzaSyA0pvZMmr7ae3cADRX4GF8pJduNTALMATw";
+let api_key = "****";  //  <== api key
 let video_http = "https://www.googleapis.com/youtube/v3/videos?";
 let channel_http = "https://www.googleapis.com/youtube/v3/channels?";
 
-/*
-fetch ki kor6e, fech 1st e url niye ekta promise return kor6e
-
-fech promise er then er vitor ekta funtion chol6e jeta response ta niye response,json
-
-*/
 
 
 fetch(video_http + new URLSearchParams({
