@@ -1,7 +1,7 @@
 # youtube-clone
 
 
-it is a clone of youtbe structure using html and css 
-and the video thumbnails anr remder through youtube api
+it is a clone of youtube structure using html and css 
+and the video thumbnails are and render through youtube api
 
 ![alt text](./img/demo.png)
